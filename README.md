@@ -1,5 +1,5 @@
 # Patreon
-Here is a GitHub repository for posts from the [Patreon](https://www.patreon.com/rikaklassen) account.
+Here is a GitHub repository for content from the [Patreon](https://www.patreon.com/rikaklassen) account.
 
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
