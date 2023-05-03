@@ -1,7 +1,6 @@
 # Patreon
 Here is a GitHub repository for posts from the [Patreon](https://www.patreon.com/rikaklassen) account.
 
-Due to copyright concerns, replies to other people's posts are not archived on GitHub nor GitLab. Please use the [Wayback Machine](https://web.archive.org/web/*/https://www.patreon.com/rikaklassen*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
