@@ -5,7 +5,7 @@
 
 © [Hadassa Allison](https://twitter.com/biancaglamour69/status/1524066684419461120) 2022
 
-Send a gift: [paypal.me/bglamours](https://www.paypal.me/bglamours).
+**Send a gift:** [paypal.me/bglamours](https://www.paypal.me/bglamours).
 
 Tags: birthday cat, birthday girl, cats of patreon, happy bday, happy birthday, hbd
 
