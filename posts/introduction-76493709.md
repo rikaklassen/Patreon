@@ -1,5 +1,5 @@
 # Introduction
-28 December 2022
+28 Dec 2022
 
 Hi!
 
